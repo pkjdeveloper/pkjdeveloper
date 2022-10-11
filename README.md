@@ -13,6 +13,7 @@ Here are some quick things about me:
  </ul>
  
 I'm a 9+ years experienced developer/designer, I have been working in Website Development and have developed a wide range of websites in the field of E-commerce, Real Estate, Educational, Healthcare, etc.
+
 My skills:
 <ul>
 <li>★Laravel, Codeigniter</li>
